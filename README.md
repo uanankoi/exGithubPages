@@ -30,5 +30,8 @@ git 簽出至，並建立新分支 "gh-pages" ，並推送 --> <br>
 ### 成功完成，可以開始寫code改畫面了
 <img src="https://i.imgur.com/SwlBOkI.png" width="500px"></img>
 
+### DEMO
+[DEMO](https://uanankoi.github.io/exGithubPages/)
+
 
 
