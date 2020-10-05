@@ -1,7 +1,10 @@
-# 個人帳號個專案建立 Github Pages
+# 個人帳號各專案建立 Github Pages
 
 ## 簡略流程
-開啟 github 建立 new repository --> git clone 專案於電腦 --> 專案建立 index.html --> git commit 專案 --> git 簽出至，並建立新分支 "gh-pages" ，並推送 --> 專案 setting 選項內容下方 GitHub Pages 區塊開啟專案網頁('https://帳號.github.io/專案名/')
+開啟 github 建立 new repository --> git clone 專案於電腦 --> </br>
+專案建立 index.html --> git commit 專案 --> </br>
+git 簽出至，並建立新分支 "gh-pages" ，並推送 --> </br>
+專案 setting 選項內容下方 GitHub Pages 區塊開啟專案網頁('https://帳號.github.io/專案名/')
 
 ### 開啟 github 建立 new repository，git clone 專案於電腦
 <img src="https://i.imgur.com/PFMxCa8.png" width="500px"></img>
